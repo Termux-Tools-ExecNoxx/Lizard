@@ -1,0 +1,11 @@
+Lizard
+
+Lizard is a python-based network security penetration testing tool,integrate multiple functions and it can even run on termux(Android).
+
+ git clone https://github.com/wr0x00/Lizard
+cd Lizard
+python.exe -m pip install --upgrade pip
+pip install -r requirement.txt
+
+Then👇
+python lizard.py --help
